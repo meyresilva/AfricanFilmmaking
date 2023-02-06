@@ -6,8 +6,8 @@
 alt="Sankofa" width="340" height="220"/>   
 </p>
 
-A good example is Haile Gerima’s Sankofa, 
-a narrative that intends to restore African 
+In Haile Sankofa, Haile Gerima, an Ethiopian filmmaker, attempts 
+to restore African 
 descent past through an emphasis on subjectivity and 
 self-representation by dismantling the idea of enslaved 
 people as voiceless and passive commodities. 
