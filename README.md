@@ -1,6 +1,5 @@
 
-
-## AfricanFilmmaking
+# :film_projector: Filmmaking
 
 Here I share some theory on African cinema as well as some works by African filmmakers.  
 Films have been used to entertain, educate, retell stories and revisit the past. In *Film and the Construction of a New Past*, 
