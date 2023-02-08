@@ -8,3 +8,6 @@ a medium to reinterpret the past, thus,
 historians should be more sympathetic to the 
 visual media, as they open up other perspectives to
  approach the past. (Rosenstone,5)
+
+
+https://github.com/meyresilva/AfricanFilmmaking/tree/main/Film%20and%20History
