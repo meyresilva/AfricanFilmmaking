@@ -10,4 +10,4 @@ visual media, as they open up other perspectives to
  approach the past. (Rosenstone,5)
 
 
-https://github.com/meyresilva/AfricanFilmmaking/tree/main/Film%20and%20History
+- [Reinterpreting the Past Through Filmmaking](https://github.com/meyresilva/AfricanFilmmaking/tree/main/Film%20and%20History)
