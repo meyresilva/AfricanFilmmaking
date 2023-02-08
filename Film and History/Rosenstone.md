@@ -31,9 +31,10 @@ By abandoning realism and its connection with the
  social order, and promoting new forms of representing historical
  narratives, *New History Films* diverge from traditional historical
  narratives in content and form and create new form of telling stories by 
-“mixing genres, blurring the distinction between the documentary and the dramatic film.”
+“mixing genres, blurring the distinction between the documentary and the dramatic film,” as the following examples. 
  (Rosenstone 1995:5)
  
+
  
  https://github.com/meyresilva/AfricanFilmmaking/blob/main/Film%20and%20History/FaatKine.md
  
