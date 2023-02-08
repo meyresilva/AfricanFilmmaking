@@ -36,11 +36,11 @@ By abandoning realism and its connection with the
  
 
  
- https://github.com/meyresilva/AfricanFilmmaking/blob/main/Film%20and%20History/FaatKine.md
+ - [Faat Kine](https://github.com/meyresilva/AfricanFilmmaking/blob/main/Film%20and%20History/FaatKine.md)
  
- https://github.com/meyresilva/AfricanFilmmaking/blob/main/Film%20and%20History/Flame.md
+- [Flame] (https://github.com/meyresilva/AfricanFilmmaking/blob/main/Film%20and%20History/Flame.md)
  
- https://github.com/meyresilva/AfricanFilmmaking/blob/main/Film%20and%20History/Sankofa.md
+- [Sankofa] (https://github.com/meyresilva/AfricanFilmmaking/blob/main/Film%20and%20History/Sankofa.md)
  
  
  
